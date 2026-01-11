@@ -79,14 +79,6 @@ Apple, Blueberry, Cherry, Corn, Grape, Pepper, Orange, Peach, Potato, Soybean, S
 - Demonstration of ML and DL in agriculture  
 - Portfolio project  
 
----
-
-## Credits
-
-This project is inspired by the original Harvestify project:  
-https://github.com/Gladiator07/Harvestify  
-
-This version is used for learning, modification, and practice purposes.
 
 ---
 
